@@ -19,7 +19,7 @@ array.forEach(function(currentValue, index, array) {
 **function()**: Required. Can also replace with a callback function.
 
 **currentValue**
-**Required**: This is the value of the current element.
+Required: This is the value of the current element.
 
 **index**: Optional The current element's index
 
