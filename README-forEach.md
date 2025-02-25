@@ -57,3 +57,5 @@ function sumArray(number) {
 1. The `forEach` method does not return an new array.
 
 2. It does not work for object.
+
+For more information, see the [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach).
